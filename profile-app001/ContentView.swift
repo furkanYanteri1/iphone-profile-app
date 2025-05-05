@@ -19,7 +19,7 @@ struct ContentView: View {
                     Text("Your Name").font(.system(size: 30)).fontWeight(.bold).foregroundColor(.white).font(.system(.largeTitle)).shadow(radius: 5)
                     Text("IOS | Frontend Developer").foregroundColor(.gray).font(.body)
                     HStack {
-                        Image(systemName: "heart.circle ")
+                        Image(systemName: "heart.circle")
                     }
                     
                     
